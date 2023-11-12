@@ -6,7 +6,7 @@
 
 ## Usage
 
-```bash
+`bash`
 ./infoSweep [OPTIONS]
 
 ## Options
