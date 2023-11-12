@@ -20,14 +20,14 @@
 ## Examples
 
 **Grab all information and save to a file:**
-```bash
-./infoSweep -a -o output.txt
+
+`./infoSweep -a -o output.txt`
 
 **Grab system information only:**
-./infoSweep -i
+`./infoSweep -i`
 
 **Display help menu:**
-./infoSweep -h
+`./infoSweep -h`
 
 ## Information Gathered
 
